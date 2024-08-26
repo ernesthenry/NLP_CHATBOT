@@ -1,7 +1,6 @@
 # Sentiment Analysis ChatBot
 
 This project is a simple Python-based chatbot that uses sentiment analysis to respond to user inputs. The chatbot analyzes the sentiment of the user's message and provides feedback based on whether the sentiment is positive, negative, or neutral.
-
 ## Features
 
 - **Sentiment Analysis**: Uses the `TextBlob` library to analyze the sentiment of the user's message.
@@ -12,8 +11,8 @@ This project is a simple Python-based chatbot that uses sentiment analysis to re
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/sentiment-analysis-chatbot.git
-    cd sentiment-analysis-chatbot
+    git clone https://github.com/ernesthenry/NLP_CHATBOT.git
+    cd NLP_CHATBOT
     ```
 
 2. **Create a virtual environment (optional but recommended)**:
